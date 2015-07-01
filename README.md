@@ -1,41 +1,14 @@
 ---
-tags: kids, lists
-languages: python
+tags: methods, return values, kids, python
+language: python
 level: 1
 type: lab
 ---
-##Know Your Four Letter Countries
-<img src="https://s3.amazonaws.com/after-school-assets/globe.jpeg" align="right" width="300px" hspace="10">
-+ Create an list called `four_letter_countries` with the following countries (in this order):
-	- Chad
-	- Cuba
-	- Greenland
-	- Iraq
-	- Mali
-	- Oman
-	- India
 
-+ Add **Fiji** to the end of the list
+##Polly Wants a Cracker?
 
-+ Insert **Iran** after **Iraq** and before **Mali**
+![parrot](http://1.bp.blogspot.com/-HDI-XiLird8/ToaJsehSY0I/AAAAAAAABso/XHXOU_qDK3k/s1600/Parrot+Funny+Pictures_1.jpg)
 
-+ Delete **India**
+In this lab you'll be training some parrots with special talents.
 
-+ **Reverse** the order of the list
-
-+ Replace Greenland with **Togo**
-
-+ Add **Laos** to the end of the list
-
-+ **Reverse** the order of the list again
-
-+ Add **Peru** to the start of the list
-
-???
-
-# What does your final list look like
-
-?: Answer here:
-[-]
-
-???
+Fork and clone this lab and follow along and write your code in the `parrot.py` file. Try running your program when you are done. (Hint - You'll be chaining methods, so pay attention to your return values!)
